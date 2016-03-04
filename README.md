@@ -11,7 +11,7 @@ Below is the list of important files and their purpose:
 * picture.in - contains target picture
 
 ## Acknowledgements
-This was started as a class project for Computational Intelligence class. The main structure of the classes were given by the course instructor Mario Nakazawa. I implemented the functions of the classes.
+This was started as a class project for Computational Intelligence class. The main structure of the classes were given by the course instructor Dr.Mario Nakazawa. I implemented the functions of the classes.
 
 ## Installation
 To run this application you will need
