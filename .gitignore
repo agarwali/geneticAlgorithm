@@ -1,0 +1,11 @@
+# Compiled source #
+###################
+*.o
+
+# Input Files #
+###################
+*.in
+
+# template #
+template
+ 
